@@ -1738,7 +1738,7 @@ input::-moz-focus-inner {
  * ## navigation 
  * ------------------------------------------------------------------- */
 .header-nav-wrap {
-  font-family: "Nunito Sans", sans-serif;
+  font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-weight: 600;
   padding-left: 40%;
 }
